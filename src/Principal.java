@@ -12,6 +12,7 @@ public class Principal {
 	 * @param args : Cadenas de parámetros del main
 	 */
 	public static void main(String[] args) {
+	    int num = 2;
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
