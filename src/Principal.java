@@ -13,6 +13,7 @@ public class Principal {
 	 */
 	public static void main(String[] args) {
 	    int num = 2;
+	    String np;
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
